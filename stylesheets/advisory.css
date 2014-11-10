@@ -22,3 +22,5 @@ font-size: 1rem;
 
 
 .black-border{border:2px solid #484343 !important}
+
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
