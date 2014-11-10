@@ -18,7 +18,7 @@ font-size: .85rem;
 font-size: 1rem;
 }
 
-.product-intro{position:relative;width:100%;height:400px;background:url("/images/books2.png");background-size:cover}@media only screen and (max-width: 529px){.product-intro{height:200px}}.product-intro .wrapper{height:100%}.product-intro .intro-title{position:absolute;bottom:20px;color:white;font-weight:100;width:65%}@media only screen and (max-width: 529px){.product-intro .intro-title{width:90%}}.product-intro .separator{position:absolute;bottom:0;height:8px;width:50%;background-color:#f2b430}
+.product-intro{position:relative;width:100%;height:400px;background:url("../images/books2.png");background-size:cover}@media only screen and (max-width: 529px){.product-intro{height:200px}}.product-intro .wrapper{height:100%}.product-intro .intro-title{position:absolute;bottom:20px;color:white;font-weight:100;width:65%}@media only screen and (max-width: 529px){.product-intro .intro-title{width:90%}}.product-intro .separator{position:absolute;bottom:0;height:8px;width:50%;background-color:#f2b430}
 
 
 .black-border{border:2px solid #484343 !important}
