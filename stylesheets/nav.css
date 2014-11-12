@@ -1,29 +1,3 @@
-.mentor-spotlight p {
-font-size: .80rem;
-}
-
-.mentor-name a {
-color:#244b6c;
-}
-
-.edu {
-font-style: italic;
-}
-
-.bio {
-font-size: .85rem;
-}
-
-.pro {
-font-size: 1rem;
-}
-
-.product-intro{position:relative;width:100%;height:400px;background:url("../images/books2.png");background-size:cover}@media only screen and (max-width: 529px){.product-intro{height:200px}}.product-intro .wrapper{height:100%}.product-intro .intro-title{position:absolute;bottom:20px;color:white;font-weight:100;width:65%}@media only screen and (max-width: 529px){.product-intro .intro-title{width:90%}}.product-intro .separator{position:absolute;bottom:0;height:8px;width:50%;background-color:#f2b430}
-
-
-.black-border{border:2px solid #484343 !important}
-
-
 
 /*Strip the ul of padding and list styling*/
 ul {
@@ -61,6 +35,7 @@ li:hover a {
 /*Style for dropdown links*/
 li:hover ul a {
 	background: #f3f3f3;
+	text-align: left;
 	color: #2f3036;
 	height: 40px;
 	line-height: 40px;
